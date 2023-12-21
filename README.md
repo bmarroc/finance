@@ -1,6 +1,6 @@
 ## Finance
 
-This repository contains Jupyter notebooks implementing solutions to different problems in Finance. 
+This repository contains Jupyter notebooks implementing several Finance projects.
 
 The notebooks use Numpy 1.21.6 and Tensorflow 2.8.0. 
 
